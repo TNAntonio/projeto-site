@@ -25,6 +25,10 @@ h2{
     color: rgb(125, 7, 31) ;
 }
 
+img.lado {
+    float: right;
+}
+
 a{
     text-decoration: none;
     font-weight: bold;
@@ -34,4 +38,8 @@ a{
 a:hover {
     text-decoration: underline;
     color: black;
+}
+
+img{
+    width: 150px;
 }
